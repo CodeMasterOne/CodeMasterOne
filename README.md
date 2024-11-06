@@ -2,7 +2,7 @@
 
 **CodeMasterOne/CodeMasterOne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some things about myself that everyone needs to know:
 
 - 🔭 I’m currently working on learning Biamp Tesira and Vocia as well as QSC and Extron.
 - 💬 Ask me about mountain biking or offroading!
